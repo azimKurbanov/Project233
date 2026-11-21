@@ -135,8 +135,8 @@ export default function KnowledgeBase() {
         @media (prefers-reduced-motion: reduce) { .kb-card, .kb-head { animation: none; } }
       `}</style>
 
-            <div className="mx-auto max-w-[1000px]">
-                {/* Header */}
+            <div className="mx-auto max-w-[1000px]"> 
+                
                 <div className="kb-head mb-9 flex items-center justify-between">
                     <h2 className="text-[26px] font-medium tracking-tight text-[#3a3a3a]">База знаний</h2>
                     <a
