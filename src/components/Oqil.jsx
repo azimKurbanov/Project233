@@ -1,6 +1,6 @@
 import React from 'react'
-import Groc from '../src/assets/Grocery shopping-amico 1.png'
-import Coffe from '../src/assets/Coffee shop-amico 1.png'
+import Groc from '../assets/Grocery shopping-amico 1.png'
+import Coffe from '../assets/Coffee shop-amico 1.png'
 
 function oqil() {
   return (
