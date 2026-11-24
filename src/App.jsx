@@ -1,10 +1,11 @@
 import React from 'react' 
 import Said from './components/Said'
+import Javani from './components/Javani'
 const App = () => {
   return (
     <div>
-      App
-      <h1>Hello, World!</h1> 
+      <Javani />
+      <Said />
     </div>
   )
 }
